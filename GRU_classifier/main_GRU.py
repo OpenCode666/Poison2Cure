@@ -25,7 +25,7 @@ torch.backends.cudnn.benchmark = False
 
 
 # PATH (Please adjust your path !!!!!)
-FILE_PATH = '.../data_for_poison'         # Data path (folder path)
+FILE_PATH = '.../data_for_train'         # Data path (folder path)
 
 
 
